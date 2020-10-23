@@ -1,0 +1,327 @@
+.pa{
+    position: relative;
+    bottom: 1500px;
+}
+
+.pa2{
+    position: relative;
+    bottom: 1762px;
+    left: 150px;
+}
+
+
+.met{
+    color: yellowgreen;
+}
+
+.le{
+    width: 40px;
+}
+.al{
+    background-color: purple;
+    color: purple;
+}
+
+.me{
+    color: rgb(199, 171, 13) ;
+}
+
+.la{
+    color: chocolate;
+}
+
+.ac{
+    color:  rgb(210, 30, 186);
+}
+
+.ot{
+    color: yellow;
+}
+
+.otn{
+    color: green;
+}
+
+.ha{
+    color: rgb(50, 130, 205);
+}
+
+.ga{
+    color: blue;
+}
+
+.body{
+    font-family: Lobster;
+}
+
+.otrosNoMetales{
+
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: green;
+}
+
+.alcalinos{
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: purple;
+}
+
+.alcalinoTerreos{
+    position: relative;
+    left: 40px;
+    bottom: 275px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: plum;
+}
+
+.gNobles{
+    position: relative;
+    left: 745px;
+    bottom: 597px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: blue;
+   
+}
+
+.lantanidos{
+    position: relative;
+    left: 127px;
+    bottom: 550px;
+    display: inline-block;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: chocolate;
+}
+
+.lantanidos1{
+    position: relative;
+    left: 80px;
+    bottom: 735px;
+    display: inline-block;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: chocolate;
+}
+
+.actinidos{
+    position: relative;
+    left: 127px;
+    bottom: 588px;
+    display: inline-block;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: rgb(210, 30, 186);
+}
+
+.actinidos1{
+    display: inline-block;
+    position: relative;
+    left: 80px;
+    bottom: 781px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: rgb(210, 30, 186);
+}
+
+.otrosNoMetales1{
+    display: inline-block;
+    position: relative;
+    left: 570px;
+    bottom: 1057px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: green;
+}
+
+.otrosNoMetales2{
+    display: inline-block;
+    position: relative;
+    left: 615px;
+    bottom: 1057px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: green;
+}
+
+.otrosNoMetales3{
+    position: relative;
+    left: 660px;
+    bottom: 1057px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: green;
+}
+
+.mTransicion{
+    display: inline-block;
+    position: relative;
+    left: 80px;
+    bottom: 1103px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: rgb(199, 171, 13);
+}
+
+.mTransicion1{
+    display: inline-block;
+    position: relative;
+    left: 80px;
+    bottom: 1103px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: rgb(199, 171, 13);
+}
+
+.mTransicion2{
+    display: inline-block;
+    position: relative;
+    left: 125px;
+    bottom: 1103px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: rgb(199, 171, 13);
+}
+
+.mTransicion3{
+    display: inline-block;
+    position: relative;
+    left: 125px;
+    bottom: 1103px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: rgb(199, 171, 13);
+}
+
+.otrosMetales{
+    position: relative;
+    left: 525px;
+    bottom: 1333px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellow;
+}
+
+.otrosMetales1{
+    position: relative;
+    left: 525px;
+    bottom: 1333px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellow;
+}
+
+.otrosMetales2{
+    display: inline-block;
+    position: relative;
+    left: 525px;
+    bottom: 1333px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellow;
+}
+
+.otrosMetales3{
+    display: inline-block;
+    position: relative;
+    left: 525px;
+    bottom: 1333px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellow;
+}
+
+.otrosMetales4{
+    display: inline-block;
+    position: relative;
+    left: 525px;
+    bottom: 1333px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellow;
+}
+
+.metaloides{
+    position: relative;
+    left: 525px;
+    bottom: 1609px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellowgreen;
+}
+
+.metaloides1{
+    position: relative;
+    left: 570px;
+    bottom: 1609px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellowgreen;
+}
+
+.metaloides2{
+    display: inline-block;
+    position: relative;
+    left: 570px;
+    bottom: 1609px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellowgreen;
+}
+
+.metaloides3{
+    display: inline-block;
+    position: relative;
+    left: 615px;
+    bottom: 1609px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellowgreen;
+}
+
+.metaloides4{
+    display: inline-block;
+    position: relative;
+    left: 660px;
+    bottom: 1609px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: yellowgreen;
+}
+
+.alogenos{
+    position: relative;
+    left: 702px;
+    bottom: 1839px;
+    width: 35px;
+    height: 40px;
+    border-style: solid;
+    background-color: rgb(50, 130, 205);
+}
